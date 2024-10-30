@@ -12,13 +12,13 @@ import java.util.Scanner;
 public class ejer9 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        double base, altura, areaTriangulos, areaCuadrado, areaRectangulo, areaPoligono;
+        double base, altura, hipotenusa, areaTriangulos, areaCuadrado, areaRectangulo, areaPoligono;
 
         System.out.print("Ingrese el valor de la base del triángulo (que también es el lado del cuadrado): ");
         base = input.nextDouble();
 
         System.out.print("Ingrese el valor de la hipotenusa del triángulo: ");
-        double hipotenusa = input.nextDouble();
+        hipotenusa = input.nextDouble();
 
         altura = Math.sqrt((hipotenusa * hipotenusa) - (base * base));
 
