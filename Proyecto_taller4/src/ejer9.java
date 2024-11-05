@@ -14,7 +14,11 @@ import java.util.Scanner;
 public class ejer9 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+<<<<<<< HEAD
         double base, hipotenusa, altura, areaTriangulos, areaCuadrado, areaRectangulo, areaPoligono;
+=======
+        double base, altura, hipotenusa, areaTriangulos, areaCuadrado, areaRectangulo, areaPoligono;
+>>>>>>> da63c8cda3976455785031255c110e4ce1d1cd5e
 
         System.out.print("Ingrese el valor de la base del triángulo (que también es el lado del cuadrado): ");
         base = input.nextDouble();
