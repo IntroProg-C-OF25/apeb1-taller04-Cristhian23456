@@ -1,11 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
 /**
- *
- * @author User
+ * Ejercicio 6 : Generar un solución que permita calcular y mostrar el pago mensual de un préstamo
+de 1 año de plazo. Se debe ingresar el monto del préstamo y el interés mensual a
+cobrar.
+ * @author Cristhian Quizhpe
  */
 import java.util.Scanner;
 

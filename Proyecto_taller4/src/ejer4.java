@@ -1,11 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
 /**
- *
- * @author User
+ * Ejercicio 4 : Generar un algoritmo que permita calcular y mostrar el valor de la planilla de
+teléfono de un casa. Se debe ingresar el costo por minutos, el número de minutos
+consumidos en el mes.
+ * @author Cristhian Quizhpe 
  */
 import java.util.Scanner;
 public class ejer4 {

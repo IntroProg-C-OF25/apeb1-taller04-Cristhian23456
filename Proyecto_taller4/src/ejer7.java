@@ -1,10 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
 /**
- *
+ * Ejercicio 7 : Generar un algoritmo que permita calcular y mostrar el valor a cancelar de una
+planilla de luz. Se debe ingresar el valor de costo por kilovatio/hora y el número
+de kilovatios consumidos en el mes. Si el usuario tiene edad mayor a 65 años, se
+debe descontar el 10%.
  * @author User
  */
 import java.util.Scanner;

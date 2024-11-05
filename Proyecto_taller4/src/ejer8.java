@@ -4,8 +4,11 @@
  */
 
 /**
- *
- * @author User
+ * Ejercicio 8 : Se debe generar un algoritmo que permite calcular y mostrar el valor total a
+pagar mensual de servicios digitales de una persona. Los servicios digitales son:
+netflix, youtube premium, dropbox, spotify. Si la persona es menor a 30 años se
+descuenta el 20% del total mensual.
+ * @author Cristhian Quizhpe
  */
 import java.util.Scanner;
 

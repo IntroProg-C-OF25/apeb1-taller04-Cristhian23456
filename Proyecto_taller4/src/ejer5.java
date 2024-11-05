@@ -4,8 +4,9 @@
  */
 
 /**
- *
- * @author User
+ * Ejercicio 5 : Generar un algoritmo que permita calcular y mostrar el costos de una computadora
+de escritorio. La misma es comprada por partes; CPU, teclado, pantalla, ratón.
+ * @author Cristhian Quizhpe 
  */
 import java.util.Scanner;
 public class ejer5{

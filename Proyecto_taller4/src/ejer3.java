@@ -1,11 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
 /**
- *
- * @author User
+ * Ejercicio 3 : Se desea desarrollar un algoritmo que permita mostrar la tabla de multiplicar de
+un número ingresado por el usuario; solo en el caso que el valor del número esté
+entre 2 y 6.
+ * @author Cristhian Quizhpe
  */
 import java.util.Scanner;
 
